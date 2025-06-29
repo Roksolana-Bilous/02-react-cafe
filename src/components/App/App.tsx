@@ -6,7 +6,7 @@ import Notification from "../Notification/Notification.tsx";
 
 import VoteOptions from "../VoteOptions/VoteOptions.tsx";
 
-import VoteStatus from "../VoteStatus/VoteStatus.tsx";
+import VoteStatus from "../VoteStats/VoteStats.tsx";
 
 import type { Votes, VoteType } from "../../types/votes.ts";
 

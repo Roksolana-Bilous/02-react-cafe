@@ -1,4 +1,4 @@
-import styles from './VoteStatus.module.css'
+import styles from './VoteStats.module.css'
 
 import type { Votes } from '../../types/votes.ts';
 
